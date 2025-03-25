@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align = "center">
+<img src = "https://cdn.head-fi.org/a/12370890.gif">
+</p>
+
+
 ![snake gif](https://github.com/sachindevangan/sachindevangan/blob/output/github-snake-dark.svg)
 <!--
 **sachindevangan/sachindevangan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
