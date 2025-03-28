@@ -5,7 +5,7 @@
 
 ![snake gif](https://github.com/sachindevangan/sachindevangan/blob/output/github-snake-dark.svg)
 
-[![Image of https://github.com/sachindevangan/my-views-counter](https://github.com/sachindevangan/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/sachindevangan/my-views-counter)
+
 <!--
 **sachindevangan/sachindevangan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Image of https://github.com/sachindevangan/my-views-counter](https://github.com/sachindevangan/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/sachindevangan/my-views-counter)
 -->
