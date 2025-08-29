@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hey There!!
+
+<p align = "center">
+<img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NjN3JvZnBndHB5bWUwYzYyb283M2J5amdmMzFseTd2ODN5NzcxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR1WDIjKkn1TzkA/giphy.gif">
+</p>
+
+
 ![snake gif](https://github.com/sachindevangan/sachindevangan/blob/output/github-snake-dark.svg)
 <!--
 **sachindevangan/sachindevangan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
